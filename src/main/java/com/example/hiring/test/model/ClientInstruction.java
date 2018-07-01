@@ -6,7 +6,7 @@ package com.example.hiring.test.model;
 /**
  * @author Anand
  *
- *         Client Instruction imput received for trade settlement
+ *         Client Instruction input received for trade settlement
  */
 public class ClientInstruction {
 	private String stockName;
